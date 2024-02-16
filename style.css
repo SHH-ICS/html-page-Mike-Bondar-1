@@ -1,0 +1,16 @@
+<!DOCTYPE>
+<html lang="en-ca">
+    <style>
+        body {background-color:powderblue;
+        }
+        h1 {
+            background-color: rgb(255, 165, 0);
+            color: hsl(147, 50%, 47%);
+            padding: 40px;
+            text-align: center;
+            font-family: serif;
+        }
+
+        p {background-color:#ff00ff; font-family:Arial
+        }
+    </style>
